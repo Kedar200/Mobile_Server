@@ -1,0 +1,945 @@
+2023-06-15 12:23:52 Server Started
+2023-06-15 12:23:52 Waiting for the client
+2023-06-15 12:24:5 Connected to /192.168.86.235
+2023-06-15 12:27:39 Server Started
+2023-06-15 12:27:39 Waiting for the client
+2023-06-15 12:27:40 Connected to /192.168.86.235
+2023-06-15 13:17:46 Server Started
+2023-06-15 13:17:46 Waiting for the client
+2023-06-15 13:18:46 Connected to /192.168.29.180
+2023-06-15 13:19:42 Server not Started: java.lang.NullPointerException: Cannot invoke "String.length()" because "s" is null
+2023-06-15 13:20:0 Server Started
+2023-06-15 13:20:0 Waiting for the client
+2023-06-15 13:20:5 Connected to /192.168.29.180
+2023-06-15 13:21:46 Server Started
+2023-06-15 13:21:46 Waiting for the client
+2023-06-15 13:22:5 Connected to /192.168.29.180
+2023-06-15 13:30:32 Server Started
+2023-06-15 13:30:32 Waiting for the client
+2023-06-15 13:30:36 Connected to /192.168.29.180
+2023-06-15 13:38:31 Server not Started: java.lang.NullPointerException: Cannot invoke "String.length()" because "s" is null
+2023-06-15 13:38:39 Server Started
+2023-06-15 13:38:39 Waiting for the client
+2023-06-15 13:38:40 Connected to /192.168.29.180
+2023-06-15 13:38:55 Server Started
+2023-06-15 13:38:55 Waiting for the client
+2023-06-15 13:39:2 Connected to /192.168.29.180
+2023-06-15 13:39:5 Server not Started: org.json.JSONException: JSONObject["data"] is not a JSONObject (class java.lang.String : {"Brightness":46}).
+2023-06-15 13:39:17 Server Started
+2023-06-15 13:39:17 Waiting for the client
+2023-06-15 13:39:33 Connected to /192.168.29.180
+2023-06-15 13:39:36 Server not Started: org.json.JSONException: JSONObject["data"] is not a JSONObject (class java.lang.String : {"Brightness":24}).
+2023-06-15 13:39:48 Server Started
+2023-06-15 13:39:48 Waiting for the client
+2023-06-15 13:39:51 Connected to /192.168.29.180
+2023-06-15 13:41:5 Server not Started: java.lang.NullPointerException: Cannot invoke "String.length()" because "s" is null
+2023-06-15 13:41:21 Server Started
+2023-06-15 13:41:21 Waiting for the client
+2023-06-15 13:41:23 Connected to /192.168.29.180
+2023-06-15 13:41:27 Server not Started: org.json.JSONException: JSONObject["function"] not found.
+2023-06-15 13:41:33 Server Started
+2023-06-15 13:41:33 Waiting for the client
+2023-06-15 13:41:35 Connected to /192.168.29.180
+2023-06-15 13:42:33 Server Started
+2023-06-15 13:42:33 Waiting for the client
+2023-06-15 13:42:36 Connected to /192.168.29.180
+2023-06-15 13:45:6 Server not Started: java.lang.NullPointerException: Cannot invoke "String.length()" because "s" is null
+2023-06-15 13:45:19 Server Started
+2023-06-15 13:45:19 Waiting for the client
+2023-06-15 13:45:21 Connected to /192.168.29.180
+2023-06-15 13:47:44 Server Started
+2023-06-15 13:47:44 Waiting for the client
+2023-06-15 13:47:49 Connected to /192.168.29.180
+2023-06-15 13:47:52 Server not Started: org.json.JSONException: JSONObject["function"] not found.
+2023-06-15 13:48:13 Server Started
+2023-06-15 13:48:13 Waiting for the client
+2023-06-15 13:48:15 Connected to /192.168.29.180
+2023-06-15 13:48:17 Server not Started: org.json.JSONException: JSONObject["function"] not found.
+2023-06-15 13:49:35 Server Started
+2023-06-15 13:49:35 Waiting for the client
+2023-06-15 13:49:38 Connected to /192.168.29.180
+2023-06-15 13:49:42 Server not Started: org.json.JSONException: JSONObject["function"] not found.
+2023-06-15 13:55:11 Server Started
+2023-06-15 13:55:11 Waiting for the client
+2023-06-15 13:55:16 Connected to /192.168.29.180
+2023-06-15 13:55:18 Server not Started: org.json.JSONException: JSONObject["function"] not found.
+2023-06-15 13:55:40 Server Started
+2023-06-15 13:55:40 Waiting for the client
+2023-06-15 13:55:42 Connected to /192.168.29.180
+2023-06-15 13:55:45 Server not Started: org.json.JSONException: JSONObject["function"] not found.
+2023-06-15 13:56:12 Server Started
+2023-06-15 13:56:12 Waiting for the client
+2023-06-15 13:56:13 Connected to /192.168.29.180
+2023-06-15 13:56:17 Server not Started: org.json.JSONException: JSONObject["function"] not found.
+2023-06-15 13:56:52 Server Started
+2023-06-15 13:56:52 Waiting for the client
+2023-06-15 13:56:58 Connected to /192.168.29.180
+2023-06-15 13:57:0 Server not Started: org.json.JSONException: JSONObject["function"] not found.
+2023-06-15 13:58:4 Server Started
+2023-06-15 13:58:4 Waiting for the client
+2023-06-15 13:58:8 Connected to /192.168.29.180
+2023-06-15 13:58:12 Server not Started: org.json.JSONException: JSONObject["function"] not found.
+2023-06-15 13:59:7 Server Started
+2023-06-15 13:59:7 Waiting for the client
+2023-06-15 13:59:7 Connected to /192.168.29.180
+2023-06-15 13:59:12 Server not Started: java.lang.NullPointerException: Cannot invoke "String.length()" because "s" is null
+2023-06-15 13:59:14 Server Started
+2023-06-15 13:59:14 Waiting for the client
+2023-06-15 13:59:18 Connected to /192.168.29.180
+2023-06-15 13:59:24 Server not Started: org.json.JSONException: JSONObject["function"] not found.
+2023-06-15 14:0:15 Server Started
+2023-06-15 14:0:15 Waiting for the client
+2023-06-15 14:0:18 Connected to /192.168.29.180
+2023-06-15 14:10:31 Server Started
+2023-06-15 14:10:31 Waiting for the client
+2023-06-15 14:10:39 Connected to /192.168.29.180
+2023-06-15 14:22:21 Server Started
+2023-06-15 14:22:21 Waiting for the client
+2023-06-15 14:22:26 Connected to /192.168.29.180
+2023-06-15 14:23:19 Server Started
+2023-06-15 14:23:19 Waiting for the client
+2023-06-15 14:23:24 Connected to /192.168.29.180
+2023-06-15 14:23:46 Server Started
+2023-06-15 14:23:46 Waiting for the client
+2023-06-15 14:23:48 Connected to /192.168.29.180
+2023-06-15 14:23:58 Server not Started: java.lang.NullPointerException: Cannot invoke "String.length()" because "s" is null
+2023-06-15 14:24:12 Server Started
+2023-06-15 14:24:12 Waiting for the client
+2023-06-15 14:24:13 Connected to /192.168.29.180
+2023-06-15 14:25:56 Server Started
+2023-06-15 14:25:56 Waiting for the client
+2023-06-15 14:26:3 Connected to /192.168.29.180
+2023-06-15 14:26:5 {"type":"Command","data":{"function":"Brightness","value":67}}
+2023-06-15 14:26:8 {"type":"Command","data":{"function":"Brightness","value":24}}
+2023-06-15 14:26:9 {"type":"Command","data":{"function":"Brightness","value":98}}
+2023-06-15 14:26:10 {"type":"Command","data":{"function":"Brightness","value":4}}
+2023-06-15 14:26:11 {"type":"Command","data":{"function":"Brightness","value":95}}
+2023-06-15 14:26:13 {"type":"Command","data":{"function":"Brightness","value":88}}
+2023-06-15 14:26:13 {"type":"Command","data":{"function":"Brightness","value":87}}
+2023-06-15 14:26:13 {"type":"Command","data":{"function":"Brightness","value":84}}
+2023-06-15 14:26:13 {"type":"Command","data":{"function":"Brightness","value":79}}
+2023-06-15 14:26:13 {"type":"Command","data":{"function":"Brightness","value":75}}
+2023-06-15 14:26:14 {"type":"Command","data":{"function":"Brightness","value":71}}
+2023-06-15 14:26:14 {"type":"Command","data":{"function":"Brightness","value":67}}
+2023-06-15 14:26:14 {"type":"Command","data":{"function":"Brightness","value":63}}
+2023-06-15 14:26:14 {"type":"Command","data":{"function":"Brightness","value":58}}
+2023-06-15 14:26:15 {"type":"Command","data":{"function":"Brightness","value":53}}
+2023-06-15 14:26:15 {"type":"Command","data":{"function":"Brightness","value":48}}
+2023-06-15 14:26:15 {"type":"Command","data":{"function":"Brightness","value":41}}
+2023-06-15 14:26:15 {"type":"Command","data":{"function":"Brightness","value":35}}
+2023-06-15 14:26:16 {"type":"Command","data":{"function":"Brightness","value":29}}
+2023-06-15 14:26:16 {"type":"Command","data":{"function":"Brightness","value":24}}
+2023-06-15 14:26:16 {"type":"Command","data":{"function":"Brightness","value":21}}
+2023-06-15 14:26:16 {"type":"Command","data":{"function":"Brightness","value":18}}
+2023-06-15 14:26:17 {"type":"Command","data":{"function":"Brightness","value":15}}
+2023-06-15 14:26:17 {"type":"Command","data":{"function":"Brightness","value":13}}
+2023-06-15 14:26:17 {"type":"Command","data":{"function":"Brightness","value":11}}
+2023-06-15 14:26:17 {"type":"Command","data":{"function":"Brightness","value":9}}
+2023-06-15 14:26:18 {"type":"Command","data":{"function":"Brightness","value":7}}
+2023-06-15 14:26:18 {"type":"Command","data":{"function":"Brightness","value":5}}
+2023-06-15 14:26:18 {"type":"Command","data":{"function":"Brightness","value":4}}
+2023-06-15 14:26:18 {"type":"Command","data":{"function":"Brightness","value":3}}
+2023-06-15 14:26:18 {"type":"Command","data":{"function":"Brightness","value":2}}
+2023-06-15 14:26:19 {"type":"Command","data":{"function":"Brightness","value":0}}
+2023-06-15 14:26:22 {"type":"Command","data":{"function":"Brightness","value":100}}
+2023-06-15 14:26:23 {"type":"Command","data":{"function":"Brightness","value":47}}
+2023-06-15 14:26:26 {"type":"Command","data":{"function":"Brightness","value":88}}
+2023-06-15 14:26:27 Server not Started: java.lang.NullPointerException: Cannot invoke "String.length()" because "s" is null
+2023-06-15 14:27:17 Server Started
+2023-06-15 14:27:17 Waiting for the client
+2023-06-15 14:27:18 Connected to /192.168.29.180
+2023-06-15 14:27:26 {"type":"Command","data":{"function":"Brightness","value":56}}
+2023-06-15 14:27:28 {"type":"Command","data":{"function":"Brightness","value":96}}
+2023-06-15 14:27:29 {"type":"Command","data":{"function":"Brightness","value":29}}
+2023-06-15 14:27:30 {"type":"Command","data":{"function":"Brightness","value":10}}
+2023-06-15 14:27:31 {"type":"Command","data":{"function":"Brightness","value":9}}
+2023-06-15 14:27:31 {"type":"Command","data":{"function":"Brightness","value":97}}
+2023-06-15 14:27:34 {"type":"Command","data":{"function":"Brightness","value":5}}
+2023-06-15 14:27:37 {"type":"Command","data":{"function":"Brightness","value":87}}
+2023-06-15 14:27:40 {"type":"Command","data":{"function":"Brightness","value":35}}
+2023-06-15 14:30:29 Server Started
+2023-06-15 14:30:29 Waiting for the client
+2023-06-15 14:30:35 Connected to /192.168.29.180
+2023-06-15 14:30:37 {"type":"Command","data":{"function":"Brightness","value":99}}
+2023-06-15 14:30:55 {"type":"Command","data":{"function":"Brightness","value":0}}
+2023-06-15 14:30:59 {"type":"Command","data":{"function":"Brightness","value":93}}
+2023-06-15 14:30:59 {"type":"Command","data":{"function":"Brightness","value":94}}
+2023-06-15 14:30:59 {"type":"Command","data":{"function":"Brightness","value":95}}
+2023-06-15 14:31:1 {"type":"Command","data":{"function":"Brightness","value":3}}
+2023-06-15 14:31:30 {"type":"Command","data":{"function":"Brightness","value":96}}
+2023-06-15 14:31:44 {"type":"Command","data":{"function":"Brightness","value":5}}
+2023-06-15 14:31:46 {"type":"Command","data":{"function":"Brightness","value":95}}
+2023-06-15 14:31:51 Server not Started: java.lang.NullPointerException: Cannot invoke "String.length()" because "s" is null
+2023-06-16 10:36:39 Server Started
+2023-06-16 10:36:39 Waiting for the client
+2023-06-16 10:41:53 Server Started
+2023-06-16 10:41:53 Waiting for the client
+2023-06-16 10:42:8 Connected to /192.168.29.180
+2023-06-16 10:42:13 {"type":"Text","data":"Brightness: 100\n"}
+2023-06-16 10:42:13 Server not Started: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2023-06-16 10:42:24 Server Started
+2023-06-16 10:42:24 Waiting for the client
+2023-06-16 10:42:28 Connected to /192.168.29.180
+2023-06-16 10:42:30 {"type":"Text","data":"Brightness: 54\n"}
+2023-06-16 10:42:30 Server not Started: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2023-06-16 10:42:43 Server Started
+2023-06-16 10:42:43 Waiting for the client
+2023-06-16 10:43:56 Server Started
+2023-06-16 10:43:56 Waiting for the client
+2023-06-16 10:44:22 Server Started
+2023-06-16 10:44:22 Waiting for the client
+2023-06-16 10:44:33 Connected to /192.168.29.180
+2023-06-16 10:44:37 {"type":"Text","data":"Brightness: 72\n"}
+2023-06-16 10:44:37 Server not Started: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2023-06-16 10:45:13 Server Started
+2023-06-16 10:45:14 Waiting for the client
+2023-06-16 10:45:18 Connected to /192.168.29.180
+2023-06-16 10:45:21 {"type":"Text","data":"Shutdown\r"}
+2023-06-16 10:45:21 Server not Started: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2023-06-16 10:45:30 Server Started
+2023-06-16 10:45:30 Waiting for the client
+2023-06-16 10:45:35 Connected to /192.168.29.180
+2023-06-16 10:45:38 {"type":"Text","data":"Brightness: 57\n"}
+2023-06-16 10:45:38 Server not Started: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2023-06-16 10:47:15 Server Started
+2023-06-16 10:47:15 Waiting for the client
+2023-06-16 10:47:21 Connected to /192.168.29.180
+2023-06-16 10:47:24 {"type":"Text","data":"Brightness: 61\n"}
+2023-06-16 10:47:24 Server not Started: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2023-06-16 10:48:8 Server Started
+2023-06-16 10:48:8 Waiting for the client
+2023-06-16 10:48:11 Connected to /192.168.29.180
+2023-06-16 10:48:14 {"type":"Text","data":"Brightness: 81\n"}
+2023-06-16 10:48:14 Server not Started: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2023-06-16 10:48:54 Server Started
+2023-06-16 10:48:54 Waiting for the client
+2023-06-16 10:48:57 Connected to /192.168.29.180
+2023-06-16 10:49:0 {"type":"Text","data":"Shutdown\r"}
+2023-06-16 10:49:0 Server not Started: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2023-06-16 10:49:45 Server Started
+2023-06-16 10:49:45 Waiting for the client
+2023-06-16 10:49:48 Connected to /192.168.29.180
+2023-06-16 10:49:51 {"type":"Text","data":"Shutdown\r"}
+2023-06-16 10:49:51 Server not Started: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2023-06-16 10:50:6 Server Started
+2023-06-16 10:50:6 Waiting for the client
+2023-06-16 10:50:8 Connected to /192.168.29.180
+2023-06-16 10:50:12 {"type":"Text","data":"Shutdown\r"}
+2023-06-16 10:50:12 Server not Started: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2023-06-16 10:50:35 Server Started
+2023-06-16 10:50:35 Waiting for the client
+2023-06-16 10:50:39 Connected to /192.168.29.180
+2023-06-16 10:50:41 {"type":"Text","data":"Shutdown\r"}
+2023-06-16 10:50:41 Server not Started: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2023-06-16 10:53:21 Server Started
+2023-06-16 10:53:21 Waiting for the client
+2023-06-16 10:53:35 Connected to /192.168.29.180
+2023-06-16 10:53:39 {"type":"Command","data":{"function":"Brightness","value":37}}
+2023-06-16 10:53:43 {"type":"Text","data":{"function":"Shutdown"}}
+2023-06-16 10:54:25 Server not Started: java.lang.NullPointerException: Cannot invoke "String.length()" because "s" is null
+2023-06-16 10:55:10 Server Started
+2023-06-16 10:55:10 Waiting for the client
+2023-06-16 10:55:15 Connected to /192.168.29.180
+2023-06-16 10:55:18 {"type":"Command","data":{"function":"Brightness","value":23}}
+2023-06-16 10:55:20 {"type":"Command","data":{"function":"Brightness","value":94}}
+2023-06-16 10:55:20 {"type":"Command","data":{"function":"Brightness","value":95}}
+2023-06-16 10:55:22 {"type":"Command","data":{"function":"Brightness","value":1}}
+2023-06-16 10:55:24 {"type":"Command","data":{"function":"Brightness","value":89}}
+2023-06-16 10:55:26 {"type":"Command","data":{"function":"Brightness","value":52}}
+2023-06-16 10:55:28 {"type":"Text","data":{"function":"Shutdown"}}
+2023-06-16 10:55:36 {"type":"Command","data":{"function":"Brightness","value":19}}
+2023-06-16 10:55:37 {"type":"Command","data":{"function":"Brightness","value":3}}
+2023-06-16 10:55:38 {"type":"Command","data":{"function":"Brightness","value":7}}
+2023-06-16 10:55:39 {"type":"Command","data":{"function":"Brightness","value":6}}
+2023-06-16 10:55:39 {"type":"Command","data":{"function":"Brightness","value":5}}
+2023-06-16 10:55:39 {"type":"Command","data":{"function":"Brightness","value":4}}
+2023-06-16 10:55:40 {"type":"Command","data":{"function":"Brightness","value":3}}
+2023-06-16 10:55:42 {"type":"Command","data":{"function":"Brightness","value":98}}
+2023-06-16 10:55:55 {"type":"Command","data":{"function":"Brightness","value":1}}
+2023-06-16 10:55:57 {"type":"Command","data":{"function":"Brightness","value":100}}
+2023-06-16 10:55:58 {"type":"Command","data":{"function":"Brightness","value":92}}
+2023-06-16 10:56:0 {"type":"Command","data":{"function":"Brightness","value":21}}
+2023-06-16 10:56:3 {"type":"Command","data":{"function":"Brightness","value":88}}
+2023-06-16 10:56:8 {"type":"Command","data":{"function":"Brightness","value":5}}
+2023-06-16 10:56:10 {"type":"Command","data":{"function":"Brightness","value":98}}
+2023-06-16 10:56:12 {"type":"Command","data":{"function":"Brightness","value":2}}
+2023-06-16 10:56:13 {"type":"Command","data":{"function":"Brightness","value":94}}
+2023-06-16 10:56:15 {"type":"Command","data":{"function":"Brightness","value":4}}
+2023-06-16 10:56:16 {"type":"Command","data":{"function":"Brightness","value":96}}
+2023-06-16 10:56:17 {"type":"Command","data":{"function":"Brightness","value":91}}
+2023-06-16 10:56:18 {"type":"Command","data":{"function":"Brightness","value":4}}
+2023-06-16 10:56:21 {"type":"Command","data":{"function":"Brightness","value":98}}
+2023-06-16 10:56:26 {"type":"Command","data":{"function":"Brightness","value":7}}
+2023-06-16 10:56:31 {"type":"Command","data":{"function":"Brightness","value":82}}
+2023-06-16 10:56:33 {"type":"Command","data":{"function":"Brightness","value":97}}
+2023-06-16 10:56:54 {"type":"Command","data":{"function":"Brightness","value":8}}
+2023-06-16 10:56:55 {"type":"Command","data":{"function":"Brightness","value":98}}
+2023-06-16 10:56:58 {"type":"Command","data":{"function":"Brightness","value":5}}
+2023-06-16 10:56:59 {"type":"Command","data":{"function":"Brightness","value":97}}
+2023-06-16 10:57:2 {"type":"Command","data":{"function":"Brightness","value":6}}
+2023-06-16 10:57:2 {"type":"Command","data":{"function":"Brightness","value":5}}
+2023-06-16 10:57:3 {"type":"Command","data":{"function":"Brightness","value":100}}
+2023-06-16 10:57:5 {"type":"Command","data":{"function":"Brightness","value":5}}
+2023-06-16 10:57:27 {"type":"Command","data":{"function":"Brightness","value":94}}
+2023-06-16 10:57:29 {"type":"Command","data":{"function":"Brightness","value":3}}
+2023-06-16 10:57:30 {"type":"Command","data":{"function":"Brightness","value":99}}
+2023-06-16 10:57:35 {"type":"Command","data":{"function":"Brightness","value":2}}
+2023-06-16 10:57:37 {"type":"Command","data":{"function":"Brightness","value":97}}
+2023-06-16 10:57:39 {"type":"Command","data":{"function":"Brightness","value":3}}
+2023-06-16 10:57:42 {"type":"Command","data":{"function":"Brightness","value":99}}
+2023-06-16 10:57:45 {"type":"Command","data":{"function":"Brightness","value":6}}
+2023-06-16 10:57:47 {"type":"Command","data":{"function":"Brightness","value":13}}
+2023-06-16 10:57:47 {"type":"Command","data":{"function":"Brightness","value":14}}
+2023-06-16 10:57:47 {"type":"Command","data":{"function":"Brightness","value":16}}
+2023-06-16 10:57:48 {"type":"Command","data":{"function":"Brightness","value":19}}
+2023-06-16 10:57:48 {"type":"Command","data":{"function":"Brightness","value":22}}
+2023-06-16 10:57:48 {"type":"Command","data":{"function":"Brightness","value":25}}
+2023-06-16 10:57:48 {"type":"Command","data":{"function":"Brightness","value":28}}
+2023-06-16 10:57:52 {"type":"Command","data":{"function":"Brightness","value":29}}
+2023-06-16 10:57:52 {"type":"Command","data":{"function":"Brightness","value":31}}
+2023-06-16 10:57:52 {"type":"Command","data":{"function":"Brightness","value":36}}
+2023-06-16 10:57:52 {"type":"Command","data":{"function":"Brightness","value":43}}
+2023-06-16 10:57:53 {"type":"Command","data":{"function":"Brightness","value":50}}
+2023-06-16 10:57:53 {"type":"Command","data":{"function":"Brightness","value":58}}
+2023-06-16 10:57:53 {"type":"Command","data":{"function":"Brightness","value":66}}
+2023-06-16 10:57:53 {"type":"Command","data":{"function":"Brightness","value":76}}
+2023-06-16 10:57:53 {"type":"Command","data":{"function":"Brightness","value":85}}
+2023-06-16 10:57:54 {"type":"Command","data":{"function":"Brightness","value":92}}
+2023-06-16 10:57:54 {"type":"Command","data":{"function":"Brightness","value":96}}
+2023-06-16 10:57:54 {"type":"Command","data":{"function":"Brightness","value":97}}
+2023-06-16 10:57:54 {"type":"Command","data":{"function":"Brightness","value":99}}
+2023-06-16 10:57:55 {"type":"Command","data":{"function":"Brightness","value":100}}
+2023-06-16 10:58:0 {"type":"Command","data":{"function":"Brightness","value":0}}
+2023-06-16 10:58:4 {"type":"Command","data":{"function":"Brightness","value":1}}
+2023-06-16 10:58:5 {"type":"Command","data":{"function":"Brightness","value":3}}
+2023-06-16 10:58:5 {"type":"Command","data":{"function":"Brightness","value":7}}
+2023-06-16 10:58:5 {"type":"Command","data":{"function":"Brightness","value":12}}
+2023-06-16 10:58:5 {"type":"Command","data":{"function":"Brightness","value":18}}
+2023-06-16 10:58:5 {"type":"Command","data":{"function":"Brightness","value":23}}
+2023-06-16 10:58:6 {"type":"Command","data":{"function":"Brightness","value":30}}
+2023-06-16 10:58:6 {"type":"Command","data":{"function":"Brightness","value":36}}
+2023-06-16 10:58:6 {"type":"Command","data":{"function":"Brightness","value":44}}
+2023-06-16 10:58:6 {"type":"Command","data":{"function":"Brightness","value":51}}
+2023-06-16 10:58:7 {"type":"Command","data":{"function":"Brightness","value":59}}
+2023-06-16 10:58:7 {"type":"Command","data":{"function":"Brightness","value":67}}
+2023-06-16 10:58:7 {"type":"Command","data":{"function":"Brightness","value":76}}
+2023-06-16 10:58:7 {"type":"Command","data":{"function":"Brightness","value":84}}
+2023-06-16 10:58:8 {"type":"Command","data":{"function":"Brightness","value":91}}
+2023-06-16 10:58:8 {"type":"Command","data":{"function":"Brightness","value":99}}
+2023-06-16 10:58:8 {"type":"Command","data":{"function":"Brightness","value":100}}
+2023-06-16 10:58:12 {"type":"Command","data":{"function":"Brightness","value":1}}
+2023-06-16 10:58:14 {"type":"Command","data":{"function":"Brightness","value":97}}
+2023-06-16 10:58:28 {"type":"Command","data":{"function":"Brightness","value":3}}
+2023-06-16 10:58:31 {"type":"Command","data":{"function":"Brightness","value":100}}
+2023-06-16 10:58:37 {"type":"Command","data":{"function":"Brightness","value":0}}
+2023-06-16 10:58:39 {"type":"Command","data":{"function":"Brightness","value":99}}
+2023-06-16 10:58:46 {"type":"Command","data":{"function":"Brightness","value":3}}
+2023-06-16 10:58:49 {"type":"Command","data":{"function":"Brightness","value":56}}
+2023-06-16 10:58:51 {"type":"Command","data":{"function":"Brightness","value":1}}
+2023-06-16 10:58:56 {"type":"Command","data":{"function":"Brightness","value":98}}
+2023-06-16 10:58:57 {"type":"Command","data":{"function":"Brightness","value":4}}
+2023-06-16 10:58:59 {"type":"Command","data":{"function":"Brightness","value":100}}
+2023-06-16 10:59:1 {"type":"Command","data":{"function":"Brightness","value":44}}
+2023-06-16 10:59:4 {"type":"Command","data":{"function":"Brightness","value":6}}
+2023-06-16 10:59:5 {"type":"Command","data":{"function":"Brightness","value":5}}
+2023-06-16 10:59:5 {"type":"Command","data":{"function":"Brightness","value":4}}
+2023-06-16 10:59:5 {"type":"Command","data":{"function":"Brightness","value":3}}
+2023-06-16 10:59:5 {"type":"Command","data":{"function":"Brightness","value":2}}
+2023-06-16 10:59:5 {"type":"Command","data":{"function":"Brightness","value":1}}
+2023-06-16 10:59:6 {"type":"Command","data":{"function":"Brightness","value":0}}
+2023-06-16 10:59:6 {"type":"Command","data":{"function":"Brightness","value":99}}
+2023-06-16 10:59:10 Server not Started: java.lang.NullPointerException: Cannot invoke "String.length()" because "s" is null
+2023-06-16 11:0:0 Server Started
+2023-06-16 11:0:0 Waiting for the client
+2023-06-16 11:0:7 Connected to /192.168.29.180
+2023-06-16 11:0:12 {"type":"Command","data":{"function":"Brightness","value":89}}
+2023-06-16 11:0:13 {"type":"Command","data":{"function":"Brightness","value":2}}
+2023-06-16 11:0:16 {"type":"Command","data":{"function":"Brightness","value":99}}
+2023-06-16 11:0:18 {"type":"Command","data":{"function":"Brightness","value":1}}
+2023-06-16 11:0:19 {"type":"Command","data":{"function":"Brightness","value":100}}
+2023-06-16 11:0:20 {"type":"Command","data":{"function":"Brightness","value":0}}
+2023-06-16 11:0:23 {"type":"Text","data":{"function":"Shutdown"}}
+2023-06-16 11:0:30 {"type":"Command","data":{"function":"Brightness","value":97}}
+2023-06-16 11:0:36 Server not Started: java.lang.NullPointerException: Cannot invoke "String.length()" because "s" is null
+2023-06-16 11:1:57 Server Started
+2023-06-16 11:1:57 Waiting for the client
+2023-06-16 11:2:0 Connected to /192.168.29.180
+2023-06-16 11:2:3 {"type":"Command","data":{"function":"Brightness","value":100}}
+2023-06-16 11:2:4 {"type":"Command","data":{"function":"Brightness","value":3}}
+2023-06-16 11:2:5 {"type":"Text","data":{"function":"Shutdown"}}
+2023-06-16 11:2:6 Server not Started: java.lang.NullPointerException: Cannot invoke "String.length()" because "s" is null
+2023-06-16 11:2:50 Server Started
+2023-06-16 11:2:50 Waiting for the client
+2023-06-16 11:2:53 Connected to /192.168.29.180
+2023-06-16 11:2:55 {"type":"Command","data":{"function":"Brightness","value":78}}
+2023-06-16 11:2:58 Server not Started: java.lang.NullPointerException: Cannot invoke "String.length()" because "s" is null
+2023-06-16 11:3:15 Server Started
+2023-06-16 11:3:15 Waiting for the client
+2023-06-16 11:4:46 Server Started
+2023-06-16 11:4:46 Waiting for the client
+2023-06-16 11:4:50 Connected to /192.168.29.180
+2023-06-16 11:4:53 {"type":"Command","data":{"function":"Brightness","value":82}}
+2023-06-16 11:4:54 {"type":"Command","data":{"function":"Brightness","value":22}}
+2023-06-16 11:4:55 {"type":"Text","data":{"function":"Shutdown"}}
+2023-06-16 11:5:17 Server Started
+2023-06-16 11:5:17 Waiting for the client
+2023-06-16 11:5:17 Connected to /192.168.29.180
+2023-06-16 11:5:20 {"type":"Command","data":{"function":"Brightness","value":71}}
+2023-06-16 11:6:12 Server Started
+2023-06-16 11:6:12 Waiting for the client
+2023-06-16 11:6:16 Connected to /192.168.29.180
+2023-06-16 11:6:19 {"type":"Command","data":{"function":"Brightness","value":61}}
+2023-06-16 11:6:19 {"type":"Command","data":{"function":"Brightness","value":60}}
+2023-06-16 11:6:19 {"type":"Command","data":{"function":"Brightness","value":59}}
+2023-06-16 11:6:21 {"type":"Command","data":{"function":"Brightness","value":42}}
+2023-06-16 11:6:26 Disconnected
+2023-06-16 11:6:27 Connected to /192.168.29.180
+2023-06-16 11:6:30 {"type":"Command","data":{"function":"Brightness","value":80}}
+2023-06-16 11:6:30 {"type":"Command","data":{"function":"Brightness","value":81}}
+2023-06-16 11:6:31 {"type":"Text","data":{"function":"Shutdown"}}
+2023-06-16 11:8:6 Server Started
+2023-06-16 11:8:6 Waiting for the client
+2023-06-16 11:8:7 Connected to /192.168.29.180
+2023-06-16 11:8:15 {"type":"Command","data":{"function":"Brightness","value":80}}
+2023-06-16 11:8:16 {"type":"Command","data":{"function":"Brightness","value":22}}
+2023-06-16 11:8:17 {"type":"Command","data":{"function":"Brightness","value":77}}
+2023-06-16 11:8:27 {"type":"Text","data":{"function":"Shutdown"}}
+2023-06-16 11:21:53 Server Started
+2023-06-16 11:21:53 Waiting for the client
+2023-06-16 11:21:56 Connected to /192.168.29.180
+2023-06-16 11:21:58 {"type":"Command","data":{"function":"Brightness","value":97}}
+2023-06-16 11:21:59 {"type":"Command","data":{"function":"Brightness","value":38}}
+2023-06-16 11:22:6 {"type":"Text","data":{"function":"Shutdown"}}
+2023-06-16 11:22:36 Server Started
+2023-06-16 11:22:36 Waiting for the client
+2023-06-16 11:22:38 Connected to /192.168.29.180
+2023-06-16 11:22:41 {"type":"Command","data":{"function":"Brightness","value":32}}
+2023-06-16 11:22:44 {"type":"Command","data":{"function":"Brightness","value":64}}
+2023-06-16 11:22:46 {"type":"Command","data":{"function":"Brightness","value":23}}
+2023-06-16 11:22:49 {"type":"Command","data":{"function":"Brightness","value":82}}
+2023-06-16 11:22:49 {"type":"Command","data":{"function":"Brightness","value":83}}
+2023-06-16 11:22:49 {"type":"Command","data":{"function":"Brightness","value":84}}
+2023-06-16 11:22:51 {"type":"Text","data":{"function":"Shutdown"}}
+2023-06-16 11:23:27 Server Started
+2023-06-16 11:23:27 Waiting for the client
+2023-06-16 11:23:31 Connected to /192.168.29.180
+2023-06-16 11:23:33 {"type":"Command","data":{"function":"Brightness","value":79}}
+2023-06-16 11:23:35 {"type":"Command","data":{"function":"Brightness","value":47}}
+2023-06-16 11:23:36 {"type":"Text","data":{"function":"Shutdown"}}
+2023-06-16 11:25:7 Server Started
+2023-06-16 11:25:7 Waiting for the client
+2023-06-16 11:25:10 Connected to /192.168.29.180
+2023-06-16 11:25:12 {"type":"Text","data":{"function":"Shutdown"}}
+2023-06-16 11:50:2 Server Started
+2023-06-16 11:50:2 Waiting for the client
+2023-06-16 11:50:5 Connected to /192.168.29.180
+2023-06-16 11:50:7 {"type":"Command","data":{"function":"Brightness","value":36}}
+2023-06-16 11:50:7 {"type":"Command","data":{"function":"Brightness","value":37}}
+2023-06-16 11:50:10 {"type":"Command","data":{"function":"Brightness","value":6}}
+2023-06-16 11:50:11 {"type":"Command","data":{"function":"Brightness","value":51}}
+2023-06-16 11:50:13 {"type":"Text","data":{"function":"Shutdown"}}
+2023-06-16 11:50:19 Disconnected
+2023-06-16 11:50:20 Connected to /192.168.29.180
+2023-06-16 11:50:22 {"type":"Command","data":{"function":"Brightness","value":72}}
+2023-06-16 11:50:24 {"type":"Command","data":{"function":"Brightness","value":100}}
+2023-06-16 11:50:25 {"type":"Command","data":{"function":"Brightness","value":35}}
+2023-06-16 11:50:26 {"type":"Text","data":{"function":"Shutdown"}}
+2023-06-16 11:50:30 Disconnected
+2023-06-16 11:50:32 Connected to /192.168.29.180
+2023-06-16 11:50:33 {"type":"Command","data":{"function":"Brightness","value":85}}
+2023-06-16 11:50:33 {"type":"Command","data":{"function":"Brightness","value":51}}
+2023-06-16 11:50:35 {"type":"Text","data":{"function":"Shutdown"}}
+2023-06-16 11:50:36 Disconnected
+2023-06-16 11:51:16 Connected to /192.168.29.180
+2023-06-16 11:51:28 {"type":"Command","data":{"function":"Brightness","value":94}}
+2023-06-16 11:51:30 {"type":"Command","data":{"function":"Brightness","value":21}}
+2023-06-16 11:51:31 {"type":"Command","data":{"function":"Brightness","value":83}}
+2023-06-16 11:51:44 {"type":"Command","data":{"function":"Brightness","value":35}}
+2023-06-16 11:51:45 {"type":"Command","data":{"function":"Brightness","value":73}}
+2023-06-16 11:51:56 {"type":"Command","data":{"function":"Brightness","value":34}}
+2023-06-16 11:51:58 {"type":"Command","data":{"function":"Brightness","value":70}}
+2023-06-16 11:52:37 {"type":"Text","data":{"function":"Shutdown"}}
+2023-06-16 11:52:38 Disconnected
+2023-06-16 11:54:4 Server Started
+2023-06-16 11:54:4 Waiting for the client
+2023-06-16 11:54:13 Connected to /192.168.29.180
+2023-06-16 11:54:16 {"type":"Command","data":{"function":"Brightness","value":67}}
+2023-06-16 11:54:18 {"type":"Command","data":{"function":"Brightness","value":97}}
+2023-06-16 11:54:19 {"type":"Command","data":{"function":"Brightness","value":8}}
+2023-06-16 11:54:20 {"type":"Command","data":{"function":"Brightness","value":65}}
+2023-06-16 11:54:23 {"type":"Text","data":{"function":"Shutdown"}}
+2023-06-16 11:55:23 Server Started
+2023-06-16 11:55:23 Waiting for the client
+2023-06-16 11:55:27 Connected to /192.168.29.180
+2023-06-16 11:55:31 {"type":"Command","data":{"function":"Brightness","value":47}}
+2023-06-16 11:55:33 {"type":"Command","data":{"function":"Brightness","value":16}}
+2023-06-16 11:55:35 {"type":"Command","data":{"function":"Brightness","value":40}}
+2023-06-16 11:55:37 {"type":"Text","data":{"function":"Shutdown"}}
+2023-06-16 11:56:11 Disconnected
+2023-06-16 11:56:11 Connected to /192.168.29.180
+2023-06-16 11:56:11 {"type":"Command","data":{"function":"Brightness","value":69}}
+2023-06-16 11:56:11 {"type":"Command","data":{"function":"Brightness","value":44}}
+2023-06-16 11:56:14 {"type":"Command","data":{"function":"Brightness","value":92}}
+2023-06-16 11:56:17 {"type":"Command","data":{"function":"Brightness","value":44}}
+2023-06-16 11:56:18 {"type":"Command","data":{"function":"Brightness","value":55}}
+2023-06-16 11:56:20 {"type":"Text","data":{"function":"Shutdown"}}
+2023-06-16 11:58:3 Server Started
+2023-06-16 11:58:3 Waiting for the client
+2023-06-16 11:58:6 Connected to /192.168.29.180
+2023-06-16 11:58:9 {"type":"Text","data":{"function":"Shutdown"}}
+2023-06-16 12:0:19 Server Started
+2023-06-16 12:0:19 Waiting for the client
+2023-06-16 12:0:27 Connected to /192.168.29.180
+2023-06-16 12:0:30 {"type":"Text","data":{"function":"Shutdown"}}
+2023-06-16 12:3:8 Server Started
+2023-06-16 12:3:8 Waiting for the client
+2023-06-16 12:3:14 Connected to /192.168.29.180
+2023-06-16 12:3:17 {"type":"Command","data":{"function":"Brightness","value":66}}
+2023-06-16 12:3:19 {"type":"Text","data":{"function":"Shutdown"}}
+2023-06-16 12:3:37 Server Started
+2023-06-16 12:3:37 Waiting for the client
+2023-06-16 12:3:38 Connected to /192.168.29.180
+2023-06-16 12:3:41 {"type":"Text","data":{"function":"Shutdown"}}
+2023-06-16 12:3:53 {"type":"Command","data":{"function":"Brightness","value":74}}
+2023-06-16 12:3:55 {"type":"Command","data":{"function":"Brightness","value":90}}
+2023-06-16 12:3:57 {"type":"Command","data":{"function":"Brightness","value":24}}
+2023-06-16 12:3:57 Disconnected
+2023-06-16 12:3:59 Connected to /192.168.29.180
+2023-06-16 12:4:1 {"type":"Command","data":{"function":"Brightness","value":74}}
+2023-06-16 12:4:4 {"type":"Text","data":{"function":"Shutdown"}}
+2023-06-16 12:4:7 {"type":"Command","data":{"function":"Brightness","value":28}}
+2023-06-16 12:4:7 Disconnected
+2023-06-16 12:6:26 Connected to /192.168.29.134
+2023-06-16 12:6:39 {"type":"Command","data":{"function":"Brightness","value":94}}
+2023-06-16 12:6:44 {"type":"Command","data":{"function":"Brightness","value":37}}
+2023-06-16 12:6:47 {"type":"Text","data":{"function":"Shutdown"}}
+2023-06-16 12:6:53 Disconnected
+2023-06-16 12:6:53 Connected to /192.168.29.180
+2023-06-16 12:6:53 {"type":"Command","data":{"function":"Brightness","value":11}}
+2023-06-16 12:6:54 {"type":"Command","data":{"function":"Brightness","value":77}}
+2023-06-16 12:6:54 {"type":"Text","data":{"function":"Shutdown"}}
+2023-06-16 12:9:7 Server not Started: java.net.SocketException: Connection reset
+2023-06-16 12:15:19 Server Started
+2023-06-16 12:15:19 Waiting for the client
+2023-06-16 12:15:31 Connected to /192.168.29.134
+2023-06-16 12:15:36 Connected to /192.168.29.180
+2023-06-16 12:15:39 {"type":"Command","data":{"function":"Brightness","value":92}}
+2023-06-16 12:15:41 {"type":"Command","data":{"function":"Brightness","value":18}}
+2023-06-16 12:15:48 {"type":"Command","data":{"function":"Brightness","value":87}}
+2023-06-16 12:15:48 {"type":"Command","data":{"function":"Brightness","value":12}}
+2023-06-16 12:15:50 {"type":"Command","data":{"function":"Brightness","value":28}}
+2023-06-16 12:15:54 {"type":"Command","data":{"function":"Brightness","value":15}}
+2023-06-16 12:15:54 {"type":"Command","data":{"function":"Brightness","value":17}}
+2023-06-16 12:15:54 {"type":"Command","data":{"function":"Brightness","value":19}}
+2023-06-16 12:15:55 {"type":"Command","data":{"function":"Brightness","value":25}}
+2023-06-16 12:15:55 {"type":"Command","data":{"function":"Brightness","value":29}}
+2023-06-16 12:15:55 {"type":"Command","data":{"function":"Brightness","value":32}}
+2023-06-16 12:15:56 {"type":"Command","data":{"function":"Brightness","value":35}}
+2023-06-16 12:15:56 {"type":"Command","data":{"function":"Brightness","value":39}}
+2023-06-16 12:15:57 {"type":"Command","data":{"function":"Brightness","value":41}}
+2023-06-16 12:15:57 {"type":"Command","data":{"function":"Brightness","value":43}}
+2023-06-16 12:15:58 {"type":"Command","data":{"function":"Brightness","value":42}}
+2023-06-16 12:15:59 {"type":"Command","data":{"function":"Brightness","value":27}}
+2023-06-16 12:15:59 {"type":"Command","data":{"function":"Brightness","value":26}}
+2023-06-16 12:16:0 {"type":"Command","data":{"function":"Brightness","value":23}}
+2023-06-16 12:16:0 {"type":"Command","data":{"function":"Brightness","value":20}}
+2023-06-16 12:16:0 {"type":"Command","data":{"function":"Brightness","value":17}}
+2023-06-16 12:16:1 {"type":"Command","data":{"function":"Brightness","value":13}}
+2023-06-16 12:16:1 {"type":"Command","data":{"function":"Brightness","value":9}}
+2023-06-16 12:16:2 {"type":"Command","data":{"function":"Brightness","value":6}}
+2023-06-16 12:16:3 {"type":"Command","data":{"function":"Brightness","value":4}}
+2023-06-16 12:16:3 {"type":"Command","data":{"function":"Brightness","value":2}}
+2023-06-16 12:16:3 {"type":"Command","data":{"function":"Brightness","value":0}}
+2023-06-16 12:16:5 {"type":"Command","data":{"function":"Brightness","value":37}}
+2023-06-16 12:16:5 {"type":"Command","data":{"function":"Brightness","value":36}}
+2023-06-16 12:16:6 {"type":"Command","data":{"function":"Brightness","value":29}}
+2023-06-16 12:16:6 {"type":"Command","data":{"function":"Brightness","value":18}}
+2023-06-16 12:16:7 {"type":"Command","data":{"function":"Brightness","value":10}}
+2023-06-16 12:16:7 {"type":"Command","data":{"function":"Brightness","value":6}}
+2023-06-16 12:16:7 {"type":"Command","data":{"function":"Brightness","value":8}}
+2023-06-16 12:16:10 {"type":"Command","data":{"function":"Brightness","value":99}}
+2023-06-16 12:16:13 {"type":"Command","data":{"function":"Brightness","value":83}}
+2023-06-16 12:16:15 {"type":"Text","data":{"function":"Shutdown"}}
+2023-06-16 12:16:18 {"type":"Text","data":{"function":"Shutdown"}}
+2023-06-16 12:16:18 Disconnected
+2023-06-16 12:16:22 Disconnected
+2023-06-16 12:32:20 Connected to /192.168.29.134
+2023-06-16 12:32:24 Disconnected
+2023-06-16 12:32:26 Connected to /192.168.29.134
+2023-06-16 12:32:27 Disconnected
+2023-06-16 12:32:30 Connected to /192.168.29.134
+2023-06-16 12:32:41 {"type":"Command","data":{"function":"Brightness","value":50}}
+2023-06-16 12:32:43 {"type":"Command","data":{"function":"Brightness","value":9}}
+2023-06-16 12:32:44 {"type":"Command","data":{"function":"Brightness","value":8}}
+2023-06-16 12:32:46 {"type":"Command","data":{"function":"Brightness","value":57}}
+2023-06-16 12:33:3 Disconnected
+2023-06-16 12:33:7 Connected to /192.168.29.134
+2023-06-16 12:33:9 {"type":"Command","data":{"function":"Brightness","value":35}}
+2023-06-16 12:33:12 {"type":"Command","data":{"function":"Brightness","value":98}}
+2023-06-16 12:33:15 {"type":"Command","data":{"function":"Brightness","value":32}}
+2023-06-16 12:33:17 Disconnected
+2023-06-16 15:17:12 Connected to /192.168.29.180
+2023-06-16 15:17:16 {"type":"Command","data":{"function":"Brightness","value":95}}
+2023-06-16 15:17:17 {"type":"Command","data":{"function":"Brightness","value":10}}
+2023-06-16 15:17:23 {"type":"Command","data":{"function":"Brightness","value":91}}
+2023-06-16 15:17:26 {"type":"Command","data":{"function":"Brightness","value":5}}
+2023-06-16 15:17:27 {"type":"Command","data":{"function":"Brightness","value":89}}
+2023-06-16 15:17:34 {"type":"Command","data":{"function":"Brightness","value":7}}
+2023-06-16 15:17:35 {"type":"Command","data":{"function":"Brightness","value":91}}
+2023-06-16 15:17:37 {"type":"Command","data":{"function":"Brightness","value":1}}
+2023-06-16 15:17:40 {"type":"Command","data":{"function":"Brightness","value":89}}
+2023-06-16 15:17:48 {"type":"Command","data":{"function":"Brightness","value":3}}
+2023-06-16 15:17:51 {"type":"Command","data":{"function":"Brightness","value":97}}
+2023-06-16 15:17:54 {"type":"Command","data":{"function":"Brightness","value":7}}
+2023-06-16 15:17:59 {"type":"Command","data":{"function":"Brightness","value":96}}
+2023-06-16 15:18:0 {"type":"Command","data":{"function":"Brightness","value":50}}
+2023-06-16 15:18:1 {"type":"Command","data":{"function":"Brightness","value":65}}
+2023-06-16 15:18:3 {"type":"Command","data":{"function":"Brightness","value":26}}
+2023-06-16 15:18:4 {"type":"Command","data":{"function":"Brightness","value":27}}
+2023-06-16 15:18:6 {"type":"Command","data":{"function":"Brightness","value":93}}
+2023-06-16 15:18:37 Disconnected
+2023-06-16 15:19:17 Connected to /192.168.29.134
+2023-06-16 15:19:27 Disconnected
+2023-06-16 15:19:29 Connected to /192.168.29.134
+2023-06-16 15:19:31 Disconnected
+2023-06-16 15:19:39 Connected to /192.168.29.134
+2023-06-16 15:19:43 {"type":"Command","data":{"function":"Brightness","value":88}}
+2023-06-16 15:19:54 {"type":"Command","data":{"function":"Brightness","value":11}}
+2023-06-16 15:19:56 {"type":"Command","data":{"function":"Brightness","value":89}}
+2023-06-16 15:20:14 Disconnected
+2023-06-16 15:20:18 Connected to /192.168.29.134
+2023-06-16 15:20:25 {"type":"Command","data":{"function":"Brightness","value":91}}
+2023-06-16 15:20:31 {"type":"Command","data":{"function":"Brightness","value":5}}
+2023-06-16 15:20:59 Disconnected
+2023-06-16 15:59:1 Connected to /192.168.29.134
+2023-06-16 15:59:5 {"type":"Command","data":{"function":"Brightness","value":96}}
+2023-06-16 15:59:6 {"type":"Command","data":{"function":"Brightness","value":7}}
+2023-06-16 15:59:8 {"type":"Command","data":{"function":"Brightness","value":74}}
+2023-06-16 15:59:9 Disconnected
+2023-06-16 16:25:30 Connected to /192.168.29.134
+2023-06-16 16:25:31 Disconnected
+2023-06-16 16:25:32 Connected to /192.168.29.134
+2023-06-16 16:25:33 Disconnected
+2023-06-16 16:25:34 Connected to /192.168.29.134
+2023-06-16 16:25:35 {"type":"Text","data":{"function":"Shutdown"}}
+2023-06-16 16:25:35 Disconnected
+2023-06-16 16:25:37 Connected to /192.168.29.134
+2023-06-16 16:25:38 {"type":"Command","data":{"function":"Brightness","value":85}}
+2023-06-16 16:25:39 {"type":"Command","data":{"function":"Brightness","value":7}}
+2023-06-16 16:25:40 {"type":"Command","data":{"function":"Brightness","value":73}}
+2023-06-16 16:25:41 Disconnected
+2023-06-16 16:27:42 Connected to /192.168.29.134
+2023-06-16 16:27:45 {"type":"Command","data":{"function":"Brightness","value":48}}
+2023-06-16 16:27:46 {"type":"Command","data":{"function":"Brightness","value":69}}
+2023-06-16 16:27:47 {"type":"Command","data":{"function":"Brightness","value":85}}
+2023-06-16 16:27:49 Disconnected
+2023-06-16 16:41:0 Connected to /192.168.29.180
+2023-06-16 16:41:3 {"type":"Command","data":{"function":"Brightness","value":47}}
+2023-06-16 16:41:4 {"type":"Command","data":{"function":"Brightness","value":12}}
+2023-06-16 16:41:5 {"type":"Command","data":{"function":"Brightness","value":11}}
+2023-06-16 16:41:6 {"type":"Command","data":{"function":"Brightness","value":63}}
+2023-06-16 17:20:5 Server Started
+2023-06-16 17:20:5 Waiting for the client
+2023-06-16 17:32:5 Connected to /192.168.29.134
+2023-06-16 17:32:9 Disconnected
+2023-06-16 17:32:32 Connected to /192.168.29.134
+2023-06-16 17:32:34 from /192.168.29.134 {"type":"Command","data":{"function":"Brightness","value":24}}
+2023-06-16 17:32:35 from /192.168.29.134 {"type":"Command","data":{"function":"Brightness","value":25}}
+2023-06-16 17:32:35 from /192.168.29.134 {"type":"Command","data":{"function":"Brightness","value":92}}
+2023-06-16 17:32:36 from /192.168.29.134 {"type":"Command","data":{"function":"Brightness","value":23}}
+2023-06-16 17:33:44 Connected to /192.168.29.180
+2023-06-16 17:33:46 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":88}}
+2023-06-16 17:33:47 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":25}}
+2023-06-16 17:33:50 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":19}}
+2023-06-16 17:33:50 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":18}}
+2023-06-16 17:33:50 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":15}}
+2023-06-16 17:33:50 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":12}}
+2023-06-16 17:33:50 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":8}}
+2023-06-16 17:33:51 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":6}}
+2023-06-16 17:33:51 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":0}}
+2023-06-16 17:33:51 from /192.168.29.180 {"type":"Text","data":{"function":"Shutdown"}}
+2023-06-16 17:33:54 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":96}}
+2023-06-16 17:33:55 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":10}}
+2023-06-16 17:33:56 Disconnected
+2023-06-16 17:59:50 Disconnected
+2023-06-16 18:39:16 Connected to /192.168.29.180
+2023-06-16 18:39:18 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":98}}
+2023-06-16 18:39:20 Disconnected
+2023-06-16 22:39:50 Connected to /192.168.29.134
+2023-06-16 22:39:58 from /192.168.29.134 {"type":"Command","data":{"function":"Brightness","value":6}}
+2023-06-16 22:40:1 from /192.168.29.134 {"type":"Command","data":{"function":"Brightness","value":93}}
+2023-06-16 22:40:5 from /192.168.29.134 {"type":"Command","data":{"function":"Brightness","value":92}}
+2023-06-16 22:40:5 from /192.168.29.134 {"type":"Command","data":{"function":"Brightness","value":90}}
+2023-06-16 22:40:5 from /192.168.29.134 {"type":"Command","data":{"function":"Brightness","value":87}}
+2023-06-16 22:40:6 from /192.168.29.134 {"type":"Command","data":{"function":"Brightness","value":83}}
+2023-06-16 22:40:6 from /192.168.29.134 {"type":"Command","data":{"function":"Brightness","value":79}}
+2023-06-16 22:40:6 from /192.168.29.134 {"type":"Command","data":{"function":"Brightness","value":75}}
+2023-06-16 22:40:6 from /192.168.29.134 {"type":"Command","data":{"function":"Brightness","value":67}}
+2023-06-16 22:40:7 from /192.168.29.134 {"type":"Command","data":{"function":"Brightness","value":60}}
+2023-06-16 22:40:7 from /192.168.29.134 {"type":"Command","data":{"function":"Brightness","value":55}}
+2023-06-16 22:40:7 from /192.168.29.134 {"type":"Command","data":{"function":"Brightness","value":51}}
+2023-06-16 22:40:7 from /192.168.29.134 {"type":"Command","data":{"function":"Brightness","value":46}}
+2023-06-16 22:40:8 from /192.168.29.134 {"type":"Command","data":{"function":"Brightness","value":42}}
+2023-06-16 22:40:8 from /192.168.29.134 {"type":"Command","data":{"function":"Brightness","value":40}}
+2023-06-16 22:40:8 from /192.168.29.134 {"type":"Command","data":{"function":"Brightness","value":37}}
+2023-06-16 22:40:8 from /192.168.29.134 {"type":"Command","data":{"function":"Brightness","value":34}}
+2023-06-16 22:40:8 from /192.168.29.134 {"type":"Command","data":{"function":"Brightness","value":28}}
+2023-06-16 22:40:9 from /192.168.29.134 {"type":"Command","data":{"function":"Brightness","value":22}}
+2023-06-16 22:40:9 from /192.168.29.134 {"type":"Command","data":{"function":"Brightness","value":18}}
+2023-06-16 22:40:9 from /192.168.29.134 {"type":"Command","data":{"function":"Brightness","value":16}}
+2023-06-16 22:40:10 from /192.168.29.134 {"type":"Command","data":{"function":"Brightness","value":13}}
+2023-06-16 22:40:10 from /192.168.29.134 {"type":"Command","data":{"function":"Brightness","value":8}}
+2023-06-16 22:40:11 from /192.168.29.134 {"type":"Command","data":{"function":"Brightness","value":4}}
+2023-06-16 22:40:11 from /192.168.29.134 {"type":"Command","data":{"function":"Brightness","value":2}}
+2023-06-16 22:40:11 from /192.168.29.134 {"type":"Command","data":{"function":"Brightness","value":0}}
+2023-06-16 22:40:13 from /192.168.29.134 {"type":"Command","data":{"function":"Brightness","value":96}}
+2023-06-16 22:40:15 from /192.168.29.134 {"type":"Command","data":{"function":"Brightness","value":12}}
+2023-06-16 22:40:16 from /192.168.29.134 {"type":"Command","data":{"function":"Brightness","value":42}}
+2023-06-16 22:40:17 from /192.168.29.134 {"type":"Command","data":{"function":"Brightness","value":63}}
+2023-06-16 22:40:18 from /192.168.29.134 {"type":"Command","data":{"function":"Brightness","value":88}}
+2023-06-16 22:40:21 from /192.168.29.134 {"type":"Command","data":{"function":"Brightness","value":22}}
+2023-06-16 22:40:26 from /192.168.29.134 {"type":"Text","data":{"function":"Shutdown"}}
+2023-06-16 22:40:30 Disconnected
+2023-06-19 11:36:46 Server Started
+2023-06-19 11:36:46 Waiting for the client
+2023-06-19 11:36:49 Connected to /192.168.29.180
+2023-06-19 11:36:51 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":77}}
+2023-06-19 11:36:53 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":18}}
+2023-06-19 11:36:55 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":99}}
+2023-06-19 11:36:57 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":0}}
+2023-06-19 11:36:59 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":100}}
+2023-06-19 11:37:2 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":0}}
+2023-06-19 11:37:4 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":50}}
+2023-06-19 11:37:10 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":3}}
+2023-06-19 11:37:12 from /192.168.29.180 {"type":"Text","data":{"function":"Shutdown"}}
+2023-06-19 11:37:18 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":88}}
+2023-06-19 11:37:23 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":67}}
+2023-06-19 11:37:28 Disconnected
+2023-06-19 12:5:29 Server Started
+2023-06-19 12:5:29 Waiting for the client
+2023-06-19 12:5:59 Connected to /192.168.29.180
+2023-06-19 12:6:0 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":10}}
+2023-06-19 12:6:4 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":92}}
+2023-06-19 12:6:7 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":11}}
+2023-06-19 12:6:11 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":94}}
+2023-06-19 12:6:13 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":10}}
+2023-06-19 12:6:14 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":95}}
+2023-06-19 12:6:55 Server Started
+2023-06-19 12:6:55 Waiting for the client
+2023-06-19 12:6:59 Connected to /192.168.29.180
+2023-06-19 12:7:7 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":42}}
+2023-06-19 12:7:7 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":86}}
+2023-06-19 12:7:8 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":15}}
+2023-06-19 12:7:11 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":100}}
+2023-06-19 12:7:14 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":3}}
+2023-06-19 12:7:16 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":99}}
+2023-06-19 12:7:18 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":5}}
+2023-06-19 12:7:20 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":97}}
+2023-06-19 12:7:22 from /192.168.29.180 {"type":"Text","data":{"function":"Shutdown"}}
+2023-06-19 12:7:31 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":53}}
+2023-06-19 12:7:33 Disconnected
+2023-06-19 12:7:35 Connected to /192.168.29.180
+2023-06-19 12:7:37 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":95}}
+2023-06-19 12:7:40 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":53}}
+2023-06-19 12:7:45 from /192.168.29.180 {"type":"Text","data":{"function":"Shutdown"}}
+2023-06-19 12:7:49 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":96}}
+2023-06-19 12:7:50 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":97}}
+2023-06-19 12:7:50 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":98}}
+2023-06-19 12:7:55 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":6}}
+2023-06-19 12:7:57 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":5}}
+2023-06-19 12:8:4 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":4}}
+2023-06-19 12:8:5 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":3}}
+2023-06-19 12:8:5 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":2}}
+2023-06-19 12:8:6 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":0}}
+2023-06-19 12:8:6 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":2}}
+2023-06-19 12:8:6 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":6}}
+2023-06-19 12:8:7 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":10}}
+2023-06-19 12:8:7 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":14}}
+2023-06-19 12:8:8 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":18}}
+2023-06-19 12:8:8 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":22}}
+2023-06-19 12:8:9 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":27}}
+2023-06-19 12:8:9 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":31}}
+2023-06-19 12:8:9 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":37}}
+2023-06-19 12:8:10 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":42}}
+2023-06-19 12:8:10 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":48}}
+2023-06-19 12:8:11 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":55}}
+2023-06-19 12:8:11 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":61}}
+2023-06-19 12:8:12 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":68}}
+2023-06-19 12:8:12 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":74}}
+2023-06-19 12:8:13 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":80}}
+2023-06-19 12:8:13 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":87}}
+2023-06-19 12:8:14 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":92}}
+2023-06-19 12:8:14 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":95}}
+2023-06-19 12:8:15 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":97}}
+2023-06-19 12:8:15 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":99}}
+2023-06-19 12:8:16 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":100}}
+2023-06-19 12:8:29 Disconnected
+2023-06-19 12:8:52 Server Started
+2023-06-19 12:8:53 Waiting for the client
+2023-06-19 12:9:10 Connected to /192.168.29.180
+2023-06-19 12:9:18 Disconnected
+2023-06-19 12:9:23 Connected to /192.168.29.180
+2023-06-19 12:9:27 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":97}}
+2023-06-19 12:9:29 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":16}}
+2023-06-19 12:9:33 from /192.168.29.180 {"type":"Text","data":{"function":"Shutdown"}}
+2023-06-19 12:9:36 Disconnected
+2023-06-19 12:9:38 Connected to /192.168.29.180
+2023-06-19 12:9:38 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":92}}
+2023-06-19 12:9:41 from /192.168.29.180 {"type":"Text","data":{"function":"Shutdown"}}
+2023-06-19 12:9:50 Disconnected
+2023-06-19 12:10:18 Connected to /192.168.29.180
+2023-06-19 12:10:19 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":75}}
+2023-06-19 12:10:23 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":19}}
+2023-06-19 12:10:32 from /192.168.29.180 {"type":"Text","data":{"function":"Shutdown"}}
+2023-06-19 12:10:35 Disconnected
+2023-06-19 12:14:42 Server Started
+2023-06-19 12:14:42 Waiting for the client
+2023-06-19 12:14:48 Connected to /192.168.29.180
+2023-06-19 12:14:50 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":56}}
+2023-06-19 12:14:51 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":96}}
+2023-06-19 12:14:59 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":7}}
+2023-06-19 12:14:59 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":6}}
+2023-06-19 12:14:59 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":5}}
+2023-06-19 12:15:0 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":4}}
+2023-06-19 12:15:0 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":3}}
+2023-06-19 12:15:0 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":0}}
+2023-06-19 12:15:6 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":100}}
+2023-06-19 12:15:13 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":34}}
+2023-06-19 12:15:15 Disconnected
+2023-06-19 12:15:17 Connected to /192.168.29.180
+2023-06-19 12:15:25 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":94}}
+2023-06-19 12:15:27 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":12}}
+2023-06-19 12:15:30 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":99}}
+2023-06-19 12:15:31 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":98}}
+2023-06-19 12:15:32 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":3}}
+2023-06-19 12:15:42 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":99}}
+2023-06-19 12:15:51 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":23}}
+2023-06-19 12:16:50 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":72}}
+2023-06-19 12:16:51 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":73}}
+2023-06-19 12:16:51 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":75}}
+2023-06-19 12:16:52 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":80}}
+2023-06-19 12:16:52 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":85}}
+2023-06-19 12:16:53 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":89}}
+2023-06-19 12:16:53 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":93}}
+2023-06-19 12:16:54 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":95}}
+2023-06-19 12:16:54 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":96}}
+2023-06-19 12:16:54 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":97}}
+2023-06-19 12:16:55 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":100}}
+2023-06-19 12:17:55 Server Started
+2023-06-19 12:17:55 Waiting for the client
+2023-06-19 12:37:52 Connected to /192.168.29.134
+2023-06-19 12:37:55 from /192.168.29.134 {"type":"Command","data":{"function":"Brightness","value":94}}
+2023-06-19 12:37:57 from /192.168.29.134 {"type":"Command","data":{"function":"Brightness","value":6}}
+2023-06-19 12:38:3 from /192.168.29.134 {"type":"Command","data":{"function":"Brightness","value":94}}
+2023-06-19 12:38:7 from /192.168.29.134 {"type":"Command","data":{"function":"Brightness","value":4}}
+2023-06-19 12:38:14 from /192.168.29.134 {"type":"Command","data":{"function":"Brightness","value":98}}
+2023-06-19 12:38:15 from /192.168.29.134 {"type":"Command","data":{"function":"Brightness","value":99}}
+2023-06-19 12:38:17 from /192.168.29.134 {"type":"Text","data":{"function":"Shutdown"}}
+2023-06-19 12:38:56 Server Started
+2023-06-19 12:38:56 Waiting for the client
+2023-06-19 12:39:16 Connected to /192.168.29.134
+2023-06-19 12:39:35 from /192.168.29.134 {"type":"Command","data":{"function":"Brightness","value":95}}
+2023-06-19 12:39:36 from /192.168.29.134 {"type":"Command","data":{"function":"Brightness","value":10}}
+2023-06-19 12:39:39 from /192.168.29.134 {"type":"Text","data":{"function":"Shutdown"}}
+2023-06-19 12:39:45 Disconnected
+2023-06-19 12:40:23 Connected to /192.168.29.134
+2023-06-19 12:40:31 from /192.168.29.134 {"type":"Command","data":{"function":"Brightness","value":93}}
+2023-06-19 12:40:45 from /192.168.29.134 {"type":"Text","data":{"function":"Shutdown"}}
+2023-06-19 15:21:47 Server Started
+2023-06-19 15:21:47 Waiting for the client
+2023-06-19 15:22:9 Connected to /192.168.29.180
+2023-06-19 15:22:16 from /192.168.29.180 {"type":"Text","data":{"function":"Shutdown"}}
+2023-06-19 15:22:58 Server Started
+2023-06-19 15:22:58 Waiting for the client
+2023-06-19 15:23:2 Connected to /192.168.29.180
+2023-06-19 15:23:14 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":85}}
+2023-06-19 15:23:17 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":2}}
+2023-06-19 15:23:19 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":92}}
+2023-06-19 15:23:21 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":2}}
+2023-06-19 15:23:23 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":94}}
+2023-06-19 15:23:26 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":1}}
+2023-06-19 15:23:27 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":93}}
+2023-06-19 15:23:29 from /192.168.29.180 {"type":"Text","data":{"function":"Shutdown"}}
+2023-06-19 15:23:41 Disconnected
+2023-06-19 15:23:41 Connected to /192.168.29.180
+2023-06-19 15:23:45 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":23}}
+2023-06-19 15:23:45 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":24}}
+2023-06-19 15:23:45 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":26}}
+2023-06-19 15:23:46 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":85}}
+2023-06-19 15:23:52 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":5}}
+2023-06-19 15:23:53 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":97}}
+2023-06-19 15:23:55 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":96}}
+2023-06-19 15:23:56 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":93}}
+2023-06-19 15:23:56 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":91}}
+2023-06-19 15:23:56 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":89}}
+2023-06-19 15:23:57 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":87}}
+2023-06-19 15:23:57 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":85}}
+2023-06-19 15:23:57 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":83}}
+2023-06-19 15:23:58 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":81}}
+2023-06-19 15:23:58 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":79}}
+2023-06-19 15:23:58 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":76}}
+2023-06-19 15:23:58 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":73}}
+2023-06-19 15:23:59 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":70}}
+2023-06-19 15:23:59 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":66}}
+2023-06-19 15:23:59 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":63}}
+2023-06-19 15:23:59 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":59}}
+2023-06-19 15:24:0 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":54}}
+2023-06-19 15:24:0 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":50}}
+2023-06-19 15:24:0 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":46}}
+2023-06-19 15:24:1 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":42}}
+2023-06-19 15:24:1 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":38}}
+2023-06-19 15:24:1 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":33}}
+2023-06-19 15:24:1 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":29}}
+2023-06-19 15:24:2 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":25}}
+2023-06-19 15:24:2 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":21}}
+2023-06-19 15:24:2 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":17}}
+2023-06-19 15:24:3 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":13}}
+2023-06-19 15:24:3 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":10}}
+2023-06-19 15:24:3 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":6}}
+2023-06-19 15:24:3 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":4}}
+2023-06-19 15:24:4 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":2}}
+2023-06-19 15:24:4 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":1}}
+2023-06-19 15:24:4 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":0}}
+2023-06-19 15:24:21 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":99}}
+2023-06-19 15:24:23 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":5}}
+2023-06-19 15:24:24 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":73}}
+2023-06-19 15:24:26 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":54}}
+2023-06-19 15:24:28 from /192.168.29.180 {"type":"Text","data":{"function":"Shutdown"}}
+2023-06-19 15:24:35 Disconnected
+2023-06-20 12:38:40 Server Started
+2023-06-20 12:38:40 Waiting for the client
+2023-06-20 12:39:36 Connected to /192.168.29.180
+2023-06-20 12:40:1 Disconnected
+2023-06-20 12:40:3 Connected to /192.168.29.180
+2023-06-20 12:40:9 Disconnected
+2023-06-20 12:40:13 Connected to /192.168.29.180
+2023-06-20 12:40:36 Disconnected
+2023-06-20 12:42:58 Server Started
+2023-06-20 12:42:58 Waiting for the client
+2023-06-20 12:43:18 Connected to /192.168.29.180
+2023-06-20 12:43:22 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":93}}
+2023-06-20 12:43:24 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":6}}
+2023-06-20 12:43:25 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":99}}
+2023-06-20 12:43:26 Disconnected
+2023-06-20 12:43:29 Connected to /192.168.29.180
+2023-06-20 12:43:31 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":99}}
+2023-06-20 12:43:34 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":10}}
+2023-06-20 12:43:34 Disconnected
+2023-06-20 12:43:36 Connected to /192.168.29.180
+2023-06-20 12:43:37 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":99}}
+2023-06-20 12:43:37 Disconnected
+2023-06-20 12:43:42 Connected to /192.168.29.180
+2023-06-20 12:43:43 from /192.168.29.180 {"type":"Text","data":{"function":"Shutdown"}}
+2023-06-20 12:43:46 Disconnected
+2023-06-20 12:47:4 Server Started
+2023-06-20 12:47:4 Waiting for the client
+2023-06-20 12:47:10 Connected to /192.168.29.180
+2023-06-20 12:47:19 Disconnected
+2023-06-20 12:48:58 Server Started
+2023-06-20 12:48:58 Waiting for the client
+2023-06-20 12:49:5 Connected to /192.168.29.180
+2023-06-20 12:49:7 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":97}}
+2023-06-20 12:49:9 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":9}}
+2023-06-20 12:49:10 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":98}}
+2023-06-20 12:49:19 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":2}}
+2023-06-20 12:49:20 from /192.168.29.180 {"type":"Command","data":{"function":"Brightness","value":98}}

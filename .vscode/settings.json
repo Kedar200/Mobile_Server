@@ -1,0 +1,7 @@
+{
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar",
+    "json-20230227.jar",
+    "jna-5.13.0.jar"
+  ]
+}
