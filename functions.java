@@ -26,12 +26,9 @@ class functions {
         Object object = obj.get("data");
         String text = getfuntion(object);
         if (text.equals("Brightness")) {
-            try {
-                BrightnessManager.setBrightness(getValue(object));
-            } catch (IOException e) {
-                // TODO Auto-generated catch block
-                e.printStackTrace();
-            }
+
+            new Thread(new BrightnessManager(getValue(object))).start();
+
         } else if (text.equals("lock")) {
             LockExample user32 = new LockExample();
             user32.lock();
@@ -41,7 +38,9 @@ class functions {
             Thread t = new Thread(new doalert("Shutdown"));
             t.start();
 
+        } else if (text.equals("Mousemove")) {
+
         }
-        
+
     }
 }
