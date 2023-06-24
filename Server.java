@@ -7,8 +7,6 @@ import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 import java.net.Socket;
 
-import javax.swing.JOptionPane;
-
 import org.json.JSONObject;
 
 public class Server {
@@ -40,27 +38,26 @@ class connection implements Runnable {
     public void run() {
         creaelog c = new creaelog();
 
-        c.createlog("Connected to " + clientSocket.getInetAddress());
         try {
             BufferedReader in = new BufferedReader(new InputStreamReader(clientSocket.getInputStream()));
             BufferedWriter out = new BufferedWriter(new OutputStreamWriter(clientSocket.getOutputStream()));
 
             String incomingdata;
+
             while (true) {
                 incomingdata = in.readLine();
                 if (incomingdata == null) {
                     break;
                 }
                 JSONObject obj = new JSONObject(incomingdata);
-                functions.Action(obj);
-                c.createlog("from " + clientSocket.getInetAddress() + " " + incomingdata);
 
+                functions.Action(obj, out);
             }
             in.close();
             clientSocket.close();
-            c.createlog("Disconnected");
         } catch (IOException e) {
             // TODO Auto-generated catch block
+            c.createlog(e.toString());
             e.printStackTrace();
         }
     }

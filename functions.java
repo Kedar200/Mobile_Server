@@ -1,5 +1,7 @@
 import java.awt.AWTException;
+import java.io.BufferedWriter;
 import java.io.IOException;
+import java.net.Socket;
 import java.util.concurrent.CountDownLatch;
 
 import org.json.JSONObject;
@@ -21,7 +23,7 @@ class functions {
         return a;
     }
 
-    public static void Action(JSONObject obj) {
+    public static void Action(JSONObject obj, BufferedWriter out) {
 
         Object object = obj.get("data");
         String text = getfuntion(object);
@@ -32,6 +34,13 @@ class functions {
         } else if (text.equals("lock")) {
             LockExample user32 = new LockExample();
             user32.lock();
+            try {
+                out.write("Locked\n");
+                out.flush();
+            } catch (IOException e) {
+                // TODO Auto-generated catch block
+                e.printStackTrace();
+            }
 
         } else if (text.equals("Shutdown")) {
 
