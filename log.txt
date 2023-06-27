@@ -52,3 +52,42 @@
 2023-06-25 0:28:27 Waiting for the client
 2023-06-25 0:57:57 Server Started
 2023-06-25 0:57:57 Waiting for the client
+2023-06-25 0:58:58 Server Started
+2023-06-25 0:58:58 Waiting for the client
+2023-06-25 11:59:0 Server Started
+2023-06-25 11:59:0 Waiting for the client
+2023-06-25 12:1:7 Server Started
+2023-06-25 12:1:7 Waiting for the client
+2023-06-25 12:2:10 Server Started
+2023-06-25 12:2:10 Waiting for the client
+2023-06-25 12:3:36 Server Started
+2023-06-25 12:3:36 Waiting for the client
+2023-06-25 12:6:3 Server Started
+2023-06-25 12:6:3 Waiting for the client
+2023-06-25 12:6:54 Server Started
+2023-06-25 12:6:54 Waiting for the client
+2023-06-25 12:7:58 Server Started
+2023-06-25 12:7:58 Waiting for the client
+2023-06-25 12:11:1 java.net.SocketException: Connection reset
+2023-06-25 12:17:39 java.net.SocketException: Connection reset
+2023-06-25 12:21:47 java.net.SocketException: Connection reset
+2023-06-25 15:23:43 Server Started
+2023-06-25 15:23:43 Waiting for the client
+2023-06-25 15:31:49 Server Started
+2023-06-25 15:31:49 Waiting for the client
+2023-06-25 15:32:11 Server Started
+2023-06-25 15:32:11 Waiting for the client
+2023-06-25 15:55:41 Server Started
+2023-06-25 15:55:41 Waiting for the client
+2023-06-25 16:1:56 Server Started
+2023-06-25 16:1:56 Waiting for the client
+2023-06-25 16:5:48 Server Started
+2023-06-25 16:5:48 Waiting for the client
+2023-06-25 16:12:36 Server Started
+2023-06-25 16:12:36 Waiting for the client
+2023-06-25 16:12:56 Server Started
+2023-06-25 16:12:56 Waiting for the client
+2023-06-25 16:18:47 Server Started
+2023-06-25 16:18:47 Waiting for the client
+2023-06-25 20:26:1 Server Started
+2023-06-25 20:26:1 Waiting for the client

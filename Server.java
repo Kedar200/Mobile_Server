@@ -43,7 +43,10 @@ class connection implements Runnable {
             BufferedWriter out = new BufferedWriter(new OutputStreamWriter(clientSocket.getOutputStream()));
 
             String incomingdata;
-
+            JSONObject object = new JSONObject();
+            object.put("Brightness", BrightnessManager.getCurrentBrightness());
+            out.write(object.toString() + "\n");
+            out.flush();
             while (true) {
                 incomingdata = in.readLine();
                 if (incomingdata == null) {

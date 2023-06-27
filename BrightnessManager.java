@@ -42,4 +42,24 @@ public class BrightnessManager implements Runnable {
         }
     }
 
+    public static String getCurrentBrightness() {
+        try {
+            String command = "powershell -Command \"(Get-WmiObject -Namespace root/WMI -Class WmiMonitorBrightness).CurrentBrightness\"";
+
+            ProcessBuilder processBuilder = new ProcessBuilder("cmd.exe", "/c", command);
+            Process process = processBuilder.start();
+
+            BufferedReader reader = new BufferedReader(new InputStreamReader(process.getInputStream()));
+            String line = reader.readLine();
+
+            process.waitFor();
+
+            return line;
+        } catch (IOException | InterruptedException e) {
+            e.printStackTrace();
+        }
+
+        return null;
+    }
+
 }

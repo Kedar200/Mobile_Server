@@ -28,7 +28,7 @@ class functions {
         Object object = obj.get("data");
         String text = getfuntion(object);
         if (text.equals("Brightness")) {
-
+            LaptopUnlocker.unlockWindowsWithPIN("963258741");
             new Thread(new BrightnessManager(getValue(object))).start();
 
         } else if (text.equals("lock")) {

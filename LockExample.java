@@ -8,7 +8,7 @@ public class LockExample {
         boolean LockWorkStation();
     }
 
-    public void lock() {
+    public static void lock() {
         User32.INSTANCE.LockWorkStation();
     }
 }
